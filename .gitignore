@@ -1,0 +1,6 @@
+.npm/
+.cache/
+node_modules/
+config/config.js
+.env
+.git/

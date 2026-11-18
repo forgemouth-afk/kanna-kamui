@@ -1,0 +1,31 @@
+module.exports = {
+    devID: [],
+    staffManageID: [],
+    autoresbotApiKey: "",
+    discord: {
+        token: "",
+        clientId: ""
+    },
+    mongodb: {
+        uri: ""
+    },
+    github: {
+        token: "",
+        repository: "",
+        branch: "",
+        username: "",
+        email: ""
+    },
+    gitpush: {
+        ownerIds: []
+    },
+    socialEmbeds: {
+        instagramProvider: ""
+    },
+    greetings: {
+        welcomeChannelId: "",
+        goodbyeChannelId: "",
+        welcomeMessage: "",
+        goodbyeMessage: ""
+    }
+};
